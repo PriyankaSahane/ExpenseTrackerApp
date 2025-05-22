@@ -1,0 +1,5 @@
+Income,Salary,8000,2025-04-01
+Expense,Food,500,2025-04-02
+Expense,Rent,1500,2025-04-03
+Income,Business,3000,2025-04-04
+Expense,Travel,900,2025-04-05
